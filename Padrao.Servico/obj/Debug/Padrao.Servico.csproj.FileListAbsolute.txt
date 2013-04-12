@@ -1,0 +1,8 @@
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\bin\Debug\Padrao.Servico.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\bin\Debug\Padrao.Servico.pdb
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\obj\Debug\Padrao.Servico.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\obj\Debug\Padrao.Servico.pdb
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\bin\Debug\GenericRepository.Library.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\bin\Debug\Padrao.Dominio.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Servico\bin\Debug\Padrao.Dominio.pdb

@@ -1,0 +1,11 @@
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\Padrao.Infra.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\Padrao.Infra.pdb
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\obj\Debug\Padrao.Infra.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\obj\Debug\Padrao.Infra.pdb
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\EntityFramework.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\GenericRepository.Library.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\Padrao.Dominio.dll
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\Padrao.Dominio.pdb
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\EntityFramework.xml
+c:\users\zeno\documents\visual studio 2010\Projects\Padrao\Padrao.Infra\bin\Debug\Padrao.Infra.dll.config
